@@ -14,7 +14,7 @@ sudo apt upgrade -y
 sudo apt install -y git libjsoncpp-dev zlib1g-dev build-essential wget unzip cmake libc-ares-dev libgmp-dev file tree
 
 
-wget https://github.com/aerth/aquaminer/archive/refs/heads/master.zip
+wget https://github.com/bluesevens/aqua/archive/refs/heads/main.zip
 unzip master.zip
 rm -r master.zip
 cd aquaminer-master
